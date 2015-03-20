@@ -1,0 +1,27 @@
+{
+  "name": "germanov",
+  "version": "0.0.1",
+  "description": "test pack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/echeveria/stanga.git"
+  },
+  "keywords": [
+    "germanov"
+  ],
+  "author": "stoyan germanov",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/echeveria/stanga/issues"
+  },
+  "devDependencies": {
+    "jade": "^1.9.2",
+    "jasmine": "^2.2.1",
+    "mqtt": "^1.1.2",
+    "uglify-js": "^2.4.17"
+  }
+}
